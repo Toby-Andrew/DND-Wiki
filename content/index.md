@@ -1,5 +1,5 @@
 ---
-title: Hi gamers
+title: Home
 draft: false
 tags:
 ---
@@ -27,3 +27,4 @@ INFO: City pages in the city folders have nothing in them yet but every other pa
 - [[The Great Burn]]
 - [[The Royal Incinerator]]
 - [[Uthalt]]
+---

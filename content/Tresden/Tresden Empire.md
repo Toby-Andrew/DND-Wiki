@@ -1,5 +1,11 @@
-##### Tags
-#Location #Country #Tresden
+---
+title: Tresden Empire
+draft: false
+tags:
+  - Location
+  - Country
+  - Tresden
+---
 ## About
 Tresden Was a once great empire with a high level of influence on the continent being the sole source of [[Uthalt]]. However the [[Uthalt]] mines ran dry a few centuries ago, and Tresden was unable to bounce back, resorting to doing only basic trading of resources like food and lumber etc.
 Before [[The Great Burn]], Tresden was coasting on left over finances from the [[Uthalt]] trading era and was considered a very poor Country.

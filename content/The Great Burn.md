@@ -1,6 +1,10 @@
-##### Tags
-#Event #Tresden
-
+---
+title: The Great Burn
+draft: false
+tags:
+  - Event
+  - Tresden
+---
 The disaster that brought [[Tresden Empire]] to its collapse.
 
 The events that lead to The Great Burn started months prior. The [[Eternal Flame Cult]]s activities ramped up quickly, kidnappings and murders for their rituals, this prompted the king to launch a swift response. He hired a group of five trusted and experienced mercenaries to dismantle the cults operations.

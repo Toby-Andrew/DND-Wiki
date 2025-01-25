@@ -1,6 +1,9 @@
-##### Tags
-#Group 
-
+---
+title: Eternal Flame Cult
+draft: false
+tags:
+  - Group
+---
 A group typically seen as an insane group of pyromaniacs, they were much more organised and conniving then originally thought.
 
 ## Origins

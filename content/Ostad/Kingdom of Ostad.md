@@ -1,5 +1,11 @@
-##### Tags
-#Location #Country #Ostad
+---
+title: Kingdom of Ostad
+draft: false
+tags:
+  - Location
+  - Country
+  - Ostad
+---
 ## About
 Ostad is a highly respected Kingdom on the continent, Being an empire that prides itself on its scientific research and advancements for the world.
 

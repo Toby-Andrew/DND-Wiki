@@ -1,7 +1,14 @@
-##### Tags
-#POI #Uthalt #Tresden 
+---
+title: The Royal Incinerator
+draft: false
+tags:
+  - POI
+  - Uthalt
+  - Tresden
+---
 
 ![[The Royal Incinerator.jpg|260]]
+
 Royal incinerators are a construct designed to be a deathless unstoppable soldier. Made possible by a hollow armour made of [[Uthalt]] capable of containing and channelling the animating and eternal magical flame held within the armour. A flame that is linked to another held in an [[Uthalt]] brazier keeping it animate.
 
 Before [[The Great Burn]] it was believed royal incinerators were nothing more than a tale. Told as follows:
