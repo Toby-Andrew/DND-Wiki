@@ -14,14 +14,14 @@ INFO: City pages in the city folders have nothing in them yet but every other pa
 		- [[Ebester]]
 		- [[Oriaron]]
 		- [[Troiphia]]
-	[[Kingdom of Ostad]]
+	- [[Kingdom of Ostad]]
 
 - ##### Tresden
 	- Cities
 		- [[Brenway]]
 		- [[Garilant]]
 		- [[Senzad]]
-	[[Tresden Empire]]
+	- [[Tresden Empire]]
 
 - [[Eternal Flame Cult]]
 - [[The Great Burn]]
