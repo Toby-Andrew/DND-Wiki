@@ -29,6 +29,6 @@ It was believed that royal incinerators were actually just regular knights witne
 
 As with many legends and stories many did attempt to see if it was even possible to create a creation such as the incinerator. Despite many attempts was never recreated, leading many to agree that it is not possible and solidifying the story as just that, a story.
 
-However with its appearance and activity during [[The Great Burn]] the tale became history. The royal Incinerator made again. Hunting a mercenary group for the [[Eternal Flame Cult]] ran by Brenger, the Incinerators original creator.
+However with its appearance and activity during [[The Great Burn]] the tale became history. The royal Incinerator made real again. Hunting a mercenary group for the [[Eternal Flame Cult]] ran by Brenger, the Incinerators original creator.
 
 After a few battles with the Incinerator over about a week, the brazier inside the castle was extinguished and Brenger was defeated. It is believed that the [[Eternal Flame Cult]] was only able to scrounge up enough [[Uthalt]] to create one, and with the only known person with the magical knowledge and capability to animate the Royal Incinerator dead, it is likely that such a creation will never be remade.
